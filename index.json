@@ -48,5 +48,16 @@
         "Season Runner Up": "Rahul Vaidya",
         "Broadcasting Channel": "Colors",
         "Broadcasting Time": "Sat-Sun 9:30 and Mon-Fri 10:30"
+    },
+    {
+        "Id": 5,
+        "Show Name": "Bigboss",
+        "Season number": "Season 13",
+        "Number of Contestants": "21",
+        "Season Winner": "Siddharth Shukla",
+        "Season Runner Up": "Asim Riaz",
+        "Broadcasting Channel": "Colors",
+        "Broadcasting Time": "Sat-Sun 9:30 and Mon-Fri 10:30"
     }
+    
 ]
