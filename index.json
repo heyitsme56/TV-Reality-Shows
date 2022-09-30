@@ -1,0 +1,42 @@
+[
+    {
+        "Id": 1,
+        "Show Name": "Bigboss",
+        "Season number": "Season 15",
+        "Number of Contestants": "24",
+        "Season Winner": "Tejaswi Prakash",
+        "Season Runner Up": "Pratik Sehajpal",
+        "Broadcasting Channel": "Colors",
+        "Broadcasting Time": "Sat-Sun 9:30 and Mon-Fri 10:30"
+    },
+    {
+        "Id": 2,
+        "Show Name": "Splitsvilla",
+        "Season number": "Season 13",
+        "Number of Contestants": "22",
+        "Season Winner": "Jay and Aditi",
+        "Season Runner Up": "Shivam and Pallak",
+        "Broadcasting Channel": "MTV",
+        "Broadcasting Time": "Sat 7:00"
+    },
+    {
+        "Id": 3,
+        "Show Name": "Big Brother",
+        "Season number": "Season 24",
+        "Number of Contestants": "16",
+        "Season Winner": "Xavier Prather",
+        "Season Runner Up": "Derek Frazier",
+        "Broadcasting Channel": "CBS",
+        "Broadcasting Time": "Thu 8:00"
+    },
+    {
+        "Id": 4,
+        "Show Name": "Splitsvilla",
+        "Season number": "Season 12",
+        "Number of Contestants": "27",
+        "Season Winner": "Shrey and Priyamvada",
+        "Season Runner Up": "Ashish and Miesha",
+        "Broadcasting Channel": "MTV",
+        "Broadcasting Time": "Sat 7:00"
+    }
+]
